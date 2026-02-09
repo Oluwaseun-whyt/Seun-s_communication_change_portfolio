@@ -8,7 +8,10 @@ This folder contains examples of online learning experiences recreated or cloned
 - Layout and interaction patterns
 
 **Tools**
-PowerPoint, Web-based learning tools
+PowerPoint, Web-based learning tools(Genially)
 
 **Use case**
 Cloned learning experiences used for skill development and design practice.
+
+Kindly find link for sample below
+https://view.genially.com/69495c266a056f5581be860c/presentation-sql-data-cleaning-converting-messy-dates-to-proper-date-format
